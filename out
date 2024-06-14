@@ -1,0 +1,7 @@
+    int a = aObj.intValue();
+    double b = bObj.doubleValue();
+
+    System.out.println("a的值: " + a);
+    System.out.println("b的值: " + b);
+  }
+}
