@@ -1,0 +1,8 @@
+enemy1_down_sound = pygame.mixer.Sound("sound/enemy1_down.wav")
+enemy1_down_sound.set_volume(0.2)
+enemy2_down_sound = pygame.mixer.Sound("sound/enemy2_down.wav")
+enemy2_down_sound.set_volume(0.2)
+enemy3_down_sound = pygame.mixer.Sound("sound/enemy3_down.wav")
+enemy3_down_sound.set_volume(0.5)
+me_down_sound = pygame.mixer.Sound("sound/me_down.wav")
+me_down_sound.set_volume(0.2)
